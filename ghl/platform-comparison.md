@@ -1,6 +1,6 @@
 # Platform comparison
 
-We compare the current GHL build with alternatives using the same practical tests, not feature counts. These are published product capabilities, not tested CCDI configurations. Feature access, add-ons and usage allowances must be confirmed on our own account. No price comparison is included. Numbered references are in [sources.md](sources.md).
+This is the map of alternatives for a later cost review, to be used once our setup is fully mapped and working - not a case for switching now. Our continuation of GHL rests on our own recorded outcomes and actions, not on this comparison and not on the brief alone. When that review comes, we compare the current GHL build with alternatives using the same practical tests, not feature counts. These are published product capabilities, not tested CCDI configurations. Feature access, add-ons and usage allowances must be confirmed on our own account. No price comparison is included. Numbered references are in [sources.md](sources.md).
 
 This comparison is a shortlist, not an exhaustive market review or a purchase recommendation.
 

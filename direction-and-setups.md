@@ -23,7 +23,7 @@ Digital footprint          Website                    GHL (back office)
 |---|---|---|
 | Website | [website-plan.md](website-plan.md) | The programme: why it exists, the build history, what is live and unproven, the four journeys and their acceptance tests, the working order. |
 | Digital footprint | [digital-footprint.md](digital-footprint.md) | Discovery: Google Business Profile, reviews, search foundations, Facebook, service pages and FAQs. |
-| GHL platform | [ghl/README.md](ghl/README.md) | The target inquiry workflow, where the current setup stands, alternatives compared, the staged pilot, and the owners and decisions we owe. |
+| GHL platform | [ghl/README.md](ghl/README.md) | The target inquiry workflow, where the current setup stands, the staged pilot, the owners and decisions we owe, and the alternatives mapped for a later cost review. |
 | Decisions | [CCDI-website-decisions.md](CCDI-website-decisions.md) | The 9 recorded decisions behind all of it, with dates and reasoning. |
 | Competitor evidence | [competitor-website-analysis.md](competitor-website-analysis.md) + [nodes/](nodes/) | The live audit of comparable sites, used to trim repetition and prioritise service pages. |
 
@@ -42,7 +42,7 @@ Digital footprint          Website                    GHL (back office)
 4. Add the two-path corporate intake (book a slot or request a callback) and verify calendars and emails.
 5. Verify Facebook routing, then build the review habit and expand service pages, FAQs and search content.
 
-The GHL keep/reduce/replace review is set from the real billing date in the account, before renewal, judged on recorded outcomes.
+What justifies continuing GoHighLevel is our own outcomes and actions: inquiries saved, replies delivered, follow-ups owned and recorded. We confirm the real billing date in the account and review that value before renewal. Alternatives are considered only after everything is mapped and set up, and then as a way to lower costs, not to start over.
 
 ## Rules that apply everywhere
 
